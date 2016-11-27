@@ -7,7 +7,7 @@ else
   apt-get install -qy git
   mv /opt/plexconnect/assets/certificates/trailers* /tmp/
   rm -rf /opt/plexconnect
-  git clone https://github.com/iBaa/PlexConnect.git /opt/plexconnect
+  git clone https://github.com/CyberGhost84/PlexConnect.git /opt/plexconnect
   mv /tmp/trailers* /opt/plexconnect/assets/certificates/
 fi
 
