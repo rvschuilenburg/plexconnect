@@ -1,6 +1,6 @@
 FROM phusion/baseimage:0.9.17
-MAINTAINER pducharme <pducharme@me.com>
-# FORK FROM Needo37-Plexconnect on GitHub
+MAINTAINER rvschuilenburg
+# FORK FROM pducharme/plexconnect on GitHub
 
 # Set correct environment variables
 ENV HOME /root
